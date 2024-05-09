@@ -10,8 +10,8 @@ import simple_colors
 
 # Setup Client API
 
-api_key = "" # Enter Your API KEY
-api_s_key = "" # Enter your API Secret Key
+api_key = ""
+api_s_key = ""
 access_token = ""
 access_token_s = ""
 
