@@ -61,3 +61,7 @@ access_token_s = "Enter Secret Access Token"
 
 """ If no article is found then, the code will print the 'else' block in the
     terminal """
+
+"""    In the terminal, type the following command to run the code 'python .\Bot.py'
+        Also make sure that you open the terminal with the exact folder, where you saved 
+        the bot.    """
